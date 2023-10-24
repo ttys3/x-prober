@@ -28,7 +28,7 @@
     "cross-env": "^7.0.0",
     "eslint": "^6.8.0",
     "eslint-plugin-react": "^7.18.3",
-    "lodash-es": "^4.17.15",
+    "lodash-es": "^4.17.21",
     "mobx": "^5.15.4",
     "mobx-react": "^6.1.4",
     "node-libs-browser": "^2.2.1",
